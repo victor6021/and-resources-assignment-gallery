@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
 
     fun imageCount(){
         for(i in 0..9) {
-                     
+
         }
     }
 }
