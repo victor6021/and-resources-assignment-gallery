@@ -17,6 +17,7 @@
                     android:id="@+id/left_image"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/automobile"
                     android:padding="10dp"
                     android:adjustViewBounds="true"
                     android:src="@drawable/adventure_automobile_classic_2533092"/>
@@ -28,6 +29,7 @@
                     android:id="@+id/right_image"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:contentDescription="@string/beach_cliff"
                     android:padding="10dp"
                     android:adjustViewBounds="true"
                     android:src="@drawable/afterglow_beach_cliff_2555285"/>
